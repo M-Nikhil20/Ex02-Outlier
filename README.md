@@ -90,72 +90,72 @@ df4.shape
 sns.boxplot(x='height',data=df4)
 ```
 # OUTPUT
-## DATA FOR BHP.CSV :
+### DATA FOR BHP.CSV :
 ![image](https://user-images.githubusercontent.com/118708024/227533147-acf5fea3-bf75-4bdc-a782-17d742b11774.png)
 
-## DATASET HEAD :
+### DATASET HEAD :
 ![image](https://user-images.githubusercontent.com/118708024/227533012-606b5b33-f1ed-47f5-bd4f-289e335a4e98.png)
 
-## DATASET DESCRIBE :
+### DATASET DESCRIBE :
 ![image](https://user-images.githubusercontent.com/118708024/227532895-4ca5c4fb-e1d7-40ab-981e-439eb368305a.png)
 
-## DATASET INFO :
+### DATASET INFO :
 ![image](https://user-images.githubusercontent.com/118708024/227532764-d2aa2731-ad53-418f-96bb-358a35cade39.png)
 
-## NULL VALUES :
+### NULL VALUES :
 ![image](https://user-images.githubusercontent.com/118708024/227532639-816ac244-1e18-4928-9aa8-25bd942303dc.png)
 
-## DATASET SHAPE WITH OUTLIERS :
+### DATASET SHAPE WITH OUTLIERS :
 ![image](https://user-images.githubusercontent.com/118708024/227532533-aff2fb63-f00a-4ffc-9019-bd09a6ec5e64.png)
 
-## DATASET BOXPLOT WITH OUTLIERS :
+### DATASET BOXPLOT WITH OUTLIERS :
 ![image](https://user-images.githubusercontent.com/118708024/227532442-d24287a6-63d4-4241-b1df-11784af83df5.png)
 
-## DATASET WITHOUT OUTLIERS :
+### DATASET WITHOUT OUTLIERS :
 ![image](https://user-images.githubusercontent.com/118708024/227532311-f11dc97e-d1c5-4ba8-b3de-366fa7ac0a99.png)
 ![image](https://user-images.githubusercontent.com/118708024/227532201-859df000-e7e7-4ea3-94fb-0cd7a5524216.png)
 
-## DATASET SHAPE WITHOUT OUTLIERS :
+### DATASET SHAPE WITHOUT OUTLIERS :
 ![image](https://user-images.githubusercontent.com/118708024/227532112-c15fd237-bf49-4de9-9bc8-afec505419ba.png)
 
-## DATASET BOXPLOT WITHOUT OUTLIERS :
+### DATASET BOXPLOT WITHOUT OUTLIERS :
 ![image](https://user-images.githubusercontent.com/118708024/227532000-239e6666-e4a0-40ed-acb9-e6301329d375.png)
 
-## DATASET AFTER REMOVAL OF OUTLIERS USING Z-SCORE :
+### DATASET AFTER REMOVAL OF OUTLIERS USING Z-SCORE :
 ![image](https://user-images.githubusercontent.com/118708024/227531879-da03eafb-e3f9-498c-8946-7452193fb886.png)
 
-## DATA SHAPE AFTER REMOVAL OF OUTLIERS :
+### DATA SHAPE AFTER REMOVAL OF OUTLIERS :
 ![image](https://user-images.githubusercontent.com/118708024/227531686-0c589529-6d15-4136-8e5c-af8edcc36332.png)
 
-## DATA AFTER REMOVAL OF OUTLIERS USING Z-SCORE :
+### DATA AFTER REMOVAL OF OUTLIERS USING Z-SCORE :
 ![image](https://user-images.githubusercontent.com/118708024/227531586-37c03caf-3016-42ac-bcdf-e69cde0d7929.png)
 
-## DATASET FOR HEIGHT_WEIGHT.CSV :
+### DATASET FOR HEIGHT_WEIGHT.CSV :
 ![image](https://user-images.githubusercontent.com/118708024/227531474-46dce348-5ca6-4950-8a8e-f7469c58bdb1.png)
 
-## DATASET HEAD :
+### DATASET HEAD :
 ![image](https://user-images.githubusercontent.com/118708024/227531356-27e94aba-635d-421d-ba01-cab84c5649c5.png)
 
-## DATASET INFO :
+### DATASET INFO :
 ![image](https://user-images.githubusercontent.com/118708024/227529874-a4f6ec22-f780-4c06-8aa1-ffda1c6a3de4.png)
 
-## DATASET DESCRIBE :
+### DATASET DESCRIBE :
 ![image](https://user-images.githubusercontent.com/118708024/227529470-47eba2d7-fd5b-4b7c-91d6-2e9dbeabb71d.png)
 
-## NULL VALUES :
+### NULL VALUES :
 ![image](https://user-images.githubusercontent.com/118708024/227529315-ee0a34ec-017b-412a-acbf-bc11fbd521ed.png)
 
-## DATA BOXPLOT WITH OUTLIERS :
+### DATA BOXPLOT WITH OUTLIERS :
 ![image](https://user-images.githubusercontent.com/118708024/227529164-6144b014-e2d1-4daa-b8d9-8db634fc9e47.png)
 
-## DATA AFTER REMOVING OUTLIERS USING IQR METHOD :
+### DATA AFTER REMOVING OUTLIERS USING IQR METHOD :
 ![image](https://user-images.githubusercontent.com/118708024/227528401-6a1be11e-b0c7-42ec-9741-8729a5266929.png)
 ![image](https://user-images.githubusercontent.com/118708024/227528605-4485f6d0-b412-4cbd-9d6d-03881076562f.png)
 
-## DATA SHAPE :
+### DATA SHAPE :
 ![image](https://user-images.githubusercontent.com/118708024/227528810-9049e9eb-0f7b-46b4-be2d-3bfa4a2cd456.png)
 
-## DATA BOXPLOT AFTER REMOVING OUTLIERS USING IQR METHOD :
+### DATA BOXPLOT AFTER REMOVING OUTLIERS USING IQR METHOD :
 ![image](https://user-images.githubusercontent.com/118708024/227527687-970e8b96-cd66-458d-849c-d5a59085de7a.png)
 
 # RESULT
